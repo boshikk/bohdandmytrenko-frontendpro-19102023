@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+// some changes
+
 const initialFriends = [
   {
     id: 118836,
